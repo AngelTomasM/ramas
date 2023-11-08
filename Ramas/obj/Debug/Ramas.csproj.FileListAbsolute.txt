@@ -1,0 +1,10 @@
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\bin\Debug\Ramas.exe.config
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\bin\Debug\Ramas.exe
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\bin\Debug\Ramas.pdb
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\obj\Debug\Ramas.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\obj\Debug\Ramas.Form1.resources
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\obj\Debug\Ramas.Properties.Resources.resources
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\obj\Debug\Ramas.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\obj\Debug\Ramas.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\obj\Debug\Ramas.exe
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\ramas_OZORES\Ramas\obj\Debug\Ramas.pdb
